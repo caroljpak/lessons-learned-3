@@ -22,5 +22,6 @@ The benefits of being local are the in-person interactions. The benefits of hiri
 In general, it is not the best idea to hire undergrads if you can avoid it. Also, full stack developers are kind of a unicorn (master of front and backend programming). Most people who claim to be are not. Last, you should think of finding the right engineer the same way as dating...
 
 <img src="http://david.heinemeierhansson.com/images/me.jpg" alt="Ruby on Rails Guy">
+
 <a href="https://github.com/dhh">Picture of the Ideal Candidate</a>
 
