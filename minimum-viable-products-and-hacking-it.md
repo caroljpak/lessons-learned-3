@@ -1,3 +1,5 @@
+#Minimum viable Products and Hacking It
+
 As an entrepreneur, do everything you can cheaply, sooner, easier
 Think lean - don't create or do anything if it's not necesary
 Embrace idea of Minimum Viable Product - Try to make do!
