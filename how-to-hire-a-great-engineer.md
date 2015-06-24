@@ -23,5 +23,5 @@ In general, it is not the best idea to hire undergrads if you can avoid it. Also
 
 <img src="http://david.heinemeierhansson.com/images/me.jpg" alt="Ruby on Rails Guy">
 
-<a href="https://github.com/dhh">Picture of the Ideal Candidate</a>
+<a href="https://github.com/dhh">A Very Eligible Candidate</a>
 
