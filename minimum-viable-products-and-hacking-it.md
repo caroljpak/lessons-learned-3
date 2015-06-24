@@ -19,7 +19,7 @@ Once you determine need, you still need to ask:
 Can I do what I need with an existing third party resource or code? 
 Eliminate the need for developers or designers. 
 Use 3rd party resources that have built-in functionality and see if you can make do
-Ex. [Shopify]: http://www.shopify.com for e-commerce or [Squarespace]: http://www.squarespace.com for websites
+Ex. [http://www.shopify.com]: Shopify for e-commerce or [http://www.squarespace.com]: Squarespace  for websites
 
 Key concept: 
-![alt text](http://pandodaily.files.wordpress.com/2013/02/product_donuts-copy.jpg?w=900&h=675 "MVP")
+![alt text](http://pandodaily.files.wordpress.com/2013/02/product_donuts-copy.jpg "MVP")
