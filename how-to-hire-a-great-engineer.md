@@ -18,6 +18,12 @@ As for languages, the rule of thumb is to let the engineer pick which language h
 <h1>Location</h1>
 The benefits of being local are the in-person interactions. The benefits of hiring in the US are cultural and communication normals. The benefit of hiring regionally is working in the same time zones. The benefit of hiring globally is looking for the right talent, and sometimes price. 
 
+<h1>How to Meet Engineers</h1>
+- Go to tech meetups and meet as many nerdy, technical people are you can! try to find one who shares and believes in your business mission
+- Hackathons - you can pitch your ideas to developers and designers there. make sure you're not at a hackathon where it's heavily populated by business people
+- Startup fairs and recruiting events
+- Try to learn programming yourself and ask a developer (at a meetup / fair, etc.) if they can give you some inside tips on learning how to code
+
 <h1>Other Tips</h1>
 In general, it is not the best idea to hire undergrads if you can avoid it. Also, full stack developers are kind of a unicorn (master of front and backend programming). Most people who claim to be are not. Last, you should think of finding the right engineer the same way as dating...
 
