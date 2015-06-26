@@ -1,3 +1,5 @@
+GitHub is a web-based Git repository hosting service. It allows you to store code, keep track of changes to your code, share your code, and work with others on your code. Here is a (slightly old) Techcrunch article to learn more: http://techcrunch.com/2012/07/14/what-exactly-is-github-anyway/
+
 Takeaways: 
 
 1. how to understand a user's github profile (assess contributions, followers, repositories)
