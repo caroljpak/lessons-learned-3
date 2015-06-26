@@ -7,7 +7,7 @@
 4.	Budgeting/contracting<br>
 5.	Controlling</u></b>
 <br><hl>
-<b>1.	Controlling project scope</b><br><p>
+<b>1.	Controlling project scope</b><p>
 -	Use minimum solution approach (run the project if it’s sufficient – consider tweaking later on as long as it meets client/costumer’s needs – see more in minimum-viable-products-and-hacki…)<br>
 -	Use modularity (vide Pragmatic programmer) and build increments<br>
 -	Run projects that have high safety margins (so 10%  or 20% more costs won’t kill them)</p>
