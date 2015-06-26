@@ -1,10 +1,11 @@
-## Lean Software Development
+# Lean Software Development
 
 For tech startups operating on a minimal budget, lean software development is a critical concept.
 Lean can essentially be boiled down to one simple idea: eliminate anything in the software development 
 process that isn't adding value.  By focusing only on necessary aspects of the process and avoiding waste, 
 nascent firms can be more efficient and better position themselves to bring products to the market quickly and cheaply.  
 
+## Principles of Lean
 Lean can be summarized by the following principles:
 
 1. Eliminate Waste
