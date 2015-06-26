@@ -1,6 +1,6 @@
 Tips of Starting a Tech Startup 
 
-<img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Ad-tech_London_2010_%285%29.JPG" alt="W3Schools.com" width="104" height="142">
 
 1.	Think clearly about what do you need Engineer for and then decide if you need a co-founder or you need to hire an engineer to help you with your Technology work. 
 2.	Do I need a website? Do I need an app? 
