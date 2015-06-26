@@ -56,4 +56,4 @@ Add 5-20% for San Francisco (vs New York) and subtract 20% for other parts of th
 
 <img src="http://boston.io/assets/company-logos/thoughtbot-1420bf661f52a0678c0893e78d0f5000.png" alt="Thoughtbot dev shop">
 
-<a href="https://thoughtbot.com/">A Example of a dev shop</a>
+<a href="https://thoughtbot.com/">An example of a top dev shop</a>
