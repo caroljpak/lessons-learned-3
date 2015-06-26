@@ -1,10 +1,12 @@
-Tips of Starting a Tech Startup
+Tips of Starting a Tech Startup 
+
+<img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">
 
 1.	Think clearly about what do you need Engineer for and then decide if you need a co-founder or you need to hire an engineer to help you with your Technology work. 
 2.	Do I need a website? Do I need an app? 
 a.	MVP: Minimal viable product
 b.	Experiment to reduce the risk
-3.	Understand different channels of hiring engineer (Where to look, e.g. New York Tech Meetup (<a href="http://www.meetup.com/ny-tech/">This is a link</a>), Craigslist might not be the right source as over 80% of engineers are not qualified) <img src="cdw-header-high-tech-recruiting.jpg" alt="W3Schools.com" width="104" height="142">
+3.	Understand different channels of hiring engineer (Where to look, e.g. New York Tech Meetup (<a href="http://www.meetup.com/ny-tech/">This is a link</a>), Craigslist might not be the right source as over 80% of engineers are not qualified) 
 4.	Different level of engineers, experience matter, hiring what capacity of engineer based on the complexity of your problem
 a.	Ask questions such as T.D.D (Test Driven Development): What is most important features
 5.	How to pay an engineer
