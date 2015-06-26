@@ -40,8 +40,8 @@ Optimize the Whole by organizing teams into complete, multi-disciplined, co-loca
 
 [Source](http://www.allaboutagile.com/lean-principle-7-optimise-the-whole/)
 
-#### Lean Mind Map
 
+##### Lean Mind Map
 Below is a mind map of lean software development.  The map shows the major ideas connected to lean: People, Speed, Knowledge, Quality, History, Principles, Values and Waste.  Branching out from each of these are additional ideas, which together combine to give an overall picture of the main themes and associations behind the lean concept.  
 
 ![Lean Mindmap](https://sivajag2.files.wordpress.com/2009/07/leansoftwaredevelopment.png)
