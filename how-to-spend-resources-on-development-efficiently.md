@@ -29,8 +29,13 @@
 -	The key tricks you can implement: ask for weekly demos/progress showcase<br>
 -	Tend toward decreasing sizes of modules, especially if it is your team make sure they do better than planning poker and can work with features that can be built within 1-2 days<br>
 -	Control the size of the backlog so it’s not overwhelming. It should be as small as possible, bit still allow to provide flow of work- of you don’t have time to update frequently backlog will be longer
--	Use tools that improve the efficiency of managing the team e.g. trello for managing backlogs or Kamban boarrds for setting responsibilities
+-	Use tools that improve the efficiency of managing the team e.g. trello for managing backlogs or Kamban boards for setting responsibilities
 -	Use scrum master if possible (scrum master is the facilitator for a product development team that uses scrum, a development methodology that allows a team to self-organize and make changes quickly)</p><br><hr>
 <h2>Resources</h2>
-<a href ="https://trello.com"><img src=https://d2k1ftgv7pobq7.cloudfront.net/meta/p/res/images/c13d1cd96a2cff30f0460a5e1860c5ea/header-logo-blue.svg</a>
+<a href ="https://trello.com"><img src="https://d2k1ftgv7pobq7.cloudfront.net/meta/p/res/images/c13d1cd96a2cff30f0460a5e1860c5ea/header-logo-blue.svg" width=100></a>
+<br>
+<a href ="https://www.scrum.org"><img src="https://www.leanagile.in/Images/scrum.org/Scrum.org-Logo.png" width=100></a>
+<br>
+<a href ="http://kanbantool.com"><img src="http://kanbantool.com/assets/simple_cms/cover_page/kanban-tool-logo-4073767244ee85f3970aa99a3733f16b.png" width=100></a>
+
 </html>
