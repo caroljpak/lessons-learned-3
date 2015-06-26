@@ -42,15 +42,15 @@ Monetary remuneration is generally less important than these two factors but you
 
 Hourly rates for the different developer types are roughly as follows:
 
-full-time: $95/hour
-dev shop: $250/hour
-contractor: $120-150/hour
+- full-time: $95/hour
+- dev shop: $250/hour
+- contractor: $120-150/hour
 
 For full time employees, salaries are:
 
-College graduate: $95,000
-3 years experience: $120,000 - $140,000
-5 years experience: $150,000+
+- College graduate: $95,000
+- 3 years experience: $120,000 - $140,000
+- 5 years experience: $150,000+
 
 Add 5-20% for San Francisco (vs New York) and subtract 20% for other parts of the USA (e.g. South Dakota)
 
