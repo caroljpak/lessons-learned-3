@@ -1,4 +1,4 @@
-  Takeaways: 
+#  Takeaways: #
 
 1. What is Github?
    - GitHub is a web-based Git repository hosting service. There are three major features that make Github so powerful– forks,
@@ -25,9 +25,9 @@
      If you'd like to propose any changes to a repository, fork the repository, edit as desired, and submit a pull request to
      the project owner.
 
-Here is a (slightly old) Techcrunch article to learn more: http://techcrunch.com/2012/07/14/what-exactly-is-github-anyway/
+Here is an old, but still awesome Techcrunch article: http://techcrunch.com/2012/07/14/what-exactly-is-github-anyway/
 
-Sometimes, you just need to fork.
+# Sometimes, you just need to fork. #
 
 <img src="http://www.odd-inaries.com/wp-content/uploads/2012/08/badlucker1.jpg">
 
