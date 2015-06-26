@@ -15,4 +15,4 @@ i.	PHP Developer is still $60K-$85K
 6.	User stories: what makes a good user story/What is most important user story. Keep you focus on the key elements you need to develop
 7.	Mobile strategies: Site vs app vs both: you don’t have to do everything but what is the most efficient way of doing it. 
 8.	Lean startup and let the market tell you what you need.  Improving while implementing 
-
+<a href="http://www.meetup.com/ny-tech/">This is a link</a>
