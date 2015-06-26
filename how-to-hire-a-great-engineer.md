@@ -25,7 +25,7 @@ The benefits of being local are the in-person interactions. The benefits of hiri
 - Try to learn programming yourself and ask a developer (at a meetup / fair, etc.) if they can give you some inside tips on learning how to code
 
 <h1>Other Tips</h1>
-In general, it is not the best idea to hire undergrads if you can avoid it. Also, full stack developers are kind of a unicorn (master of front and backend programming). Most people who claim to be are not. Last, you should think of finding the right engineer the same way as dating...
+In general, it is not the best idea to hire undergrads if you can avoid it. Also, full stack developers are kind of a unicorn (master of front and backend programming). Most people who claim to be are not. Last, you should think of finding the right engineer the same way as dating, many of the same criteria apply.
 
 <img src="http://david.heinemeierhansson.com/images/me.jpg" alt="Ruby on Rails Guy">
 
